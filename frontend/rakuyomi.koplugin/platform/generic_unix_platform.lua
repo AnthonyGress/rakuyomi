@@ -8,7 +8,6 @@ local Paths = require('Paths')
 local util = require('frontend/util')
 ---@diagnostic disable-next-line: different-requires
 local platformUtil = require('platform/util')
-local must = platformUtil.must
 local must0 = platformUtil.must0
 local SubprocessOutputCapturer = platformUtil.SubprocessOutputCapturer
 
