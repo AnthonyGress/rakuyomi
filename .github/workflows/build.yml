@@ -25,7 +25,7 @@ jobs:
         os: [ubuntu-latest]
         include:
           - target: "macos"
-            os: macos-14
+            os: macos-15
           # Android is split into parallel jobs, one per ABI: armv7 targets
           # API 18, aarch64/x86_64 target API 21.
           - target: "android-armv7"
