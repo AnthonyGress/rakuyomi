@@ -1,3 +1,10 @@
+## [1.44.4](https://github.com/AnthonyGress/rakuyomi/compare/v1.44.3...v1.44.4) (2026-11-06)
+
+
+### Bug Fixes
+
+* **build:** vendor epub-builder and drop unused luacheck local ([a3abbcd](https://github.com/AnthonyGress/rakuyomi/commit/a3abbcddc260598656f084860d451cab8de3826a))
+
 ## [1.44.3](https://github.com/tachibana-shin/rakuyomi/compare/v1.44.2...v1.44.3) (2026-10-24)
 
 
